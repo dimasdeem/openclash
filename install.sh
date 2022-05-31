@@ -10,4 +10,5 @@ mv openclash /data/data/com.termux/files/usr/bin/
 clear
 wget https://raw.githubusercontent.com/R1punk/clash/main/config.yaml
 mv config.yaml /.config/clash/lb
-clear
+sleep 2
+rm -r install.sh
