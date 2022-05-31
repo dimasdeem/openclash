@@ -1,3 +1,4 @@
+pkg install micro
 wget https://raw.githubusercontent.com/dimasdeem/openclash/main/openclash
 chmod +x openclash
 mv openclash /data/data/com.termux/files/usr/bin/
