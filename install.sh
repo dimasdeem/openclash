@@ -17,4 +17,4 @@ wget https://raw.githubusercontent.com/R1punk/clash/main/config.yaml
 mv config.yaml .config/clash/lb/
 clear
 rm -r install.sh
-cd &home
+cd $home
